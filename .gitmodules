@@ -1,3 +1,6 @@
 [submodule "MatchGame2022/Assets/Tools/ArtisanDream.Tools"]
 	path = MatchGame2022/Assets/Tools/ArtisanDream.Tools
 	url = https://github.com/anthonyromrell/ArtisanDream.Tools
+[submodule "MatchGame2022/Assets/Tools/ScriptLibrary"]
+	path = MatchGame2022/Assets/Tools/ScriptLibrary
+	url = https://github.com/viceboy5/ScriptLibrary
