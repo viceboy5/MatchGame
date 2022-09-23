@@ -9,6 +9,7 @@ public class ColorMatchBehaviour : MatchBehaviour
     private void Awake()
     {
         idObj = colorIDDataListObj.currentColor;
+        Debug.Log(colorIDDataListObj.currentColor);
     }
 
     public void ChangeColor(SpriteRenderer renderer)
